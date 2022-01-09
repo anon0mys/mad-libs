@@ -1,0 +1,47 @@
+body {
+    font-family: "Optima", sans-serif;
+    margin: 0;
+}
+
+.header {
+    background-color: #C6DABF;
+    padding: 30px;
+}
+
+.main-title {
+    margin: auto;
+    text-align: center;
+    width: 150px;
+    color: white;
+    font-size: 2em;
+}
+
+.mad-libs {
+    margin: 10%;
+}
+
+.submit-container {
+    margin: auto;
+    width: 10%;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#submit-button {
+    width: 150px;
+    padding: 10px;
+    background-color: #A4C2A8;
+    border-radius: 5px;
+    color: white;
+    border: white;
+}
+
+#submit-button:active {
+    transform: scale(.98);
+}
+
+#story {
+    margin: 30px 0;
+}
