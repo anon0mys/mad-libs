@@ -70,7 +70,8 @@ Params:
 The [madlibz](https://madlibz.herokuapp.com/api#help) api returns a list of the word types that fill in the blanks of the madlib. These will determine which of the routes provided by the [generator-z](#Routes) api we should use.
 
 #### Example Blanks
-```{
+```
+{
     title: "example",
     value: [...],
     blanks: [
